@@ -15,7 +15,7 @@ var app={
         {
             q:'What is the name of the deadly virus?',
             options:['Antrax','Killvi','Corona','Wuhanvi'],
-            answer:1
+            answer:2
         } 
         
         ],
