@@ -8,13 +8,13 @@ var opt4 = document.getElementById('opt4')
 
 var app={
         question:[
-            {q:'What is JavaScript?',
-            options:['JavaScript is a scripting language used to make the website interactive',' JavaScript is an assembly language used to make the website interactive','JavaScript is a compiled language used to make the website interactive','None'],
+            {q:'What is the name of the river?',
+            options:['Danude',' Niger','Congo','Limpopo'],
         answer:1
         },
         {
-            q:'Arrays in JavaScript are defined by which of the following statements?',
-            options:[' ordered list of values','ordered list of objects','ordered list of string','ordered list of functions'],
+            q:'What is the name of the deadly virus?',
+            options:['Antrax','Killvi','Corona','Wuhanvi'],
             answer:1
         } 
         
